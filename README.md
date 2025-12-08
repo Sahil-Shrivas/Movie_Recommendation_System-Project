@@ -1,8 +1,4 @@
-# 🎬 Movie Recommendation System
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.32-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+# 🎬 Movie Recommendation System 
 
 **📰 Description:**  
 The **Movie Recommendation System** is a Python-based web app that suggests movies similar to the one you select. It leverages **content-based filtering** using a similarity matrix and provides recommendations with **movie posters** dynamically fetched from the **TMDb API**.  
@@ -124,3 +120,4 @@ The recommendation is based on **similarity between movie features** such as gen
 - GitHub: https://github.com/Sahil-Shrivas
 
 ---
+
