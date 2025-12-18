@@ -38,6 +38,13 @@ The recommendation is based on **similarity between movie features** such as gen
 
 ---
 
+## Screenshot 
+
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/Movie_Recommendation_System-Project/refs/heads/main/Screenshot%202025-12-18%20200028.png)
+![alt text](https://raw.githubusercontent.com/Sahil-Shrivas/Movie_Recommendation_System-Project/refs/heads/main/Screenshot%202025-12-18%20200056.png)
+
+---
+
 ## 📂 Project Structure
 
     Movie-Recommendation-System/
@@ -120,4 +127,5 @@ The recommendation is based on **similarity between movie features** such as gen
 - GitHub: https://github.com/Sahil-Shrivas
 
 ---
+
 
